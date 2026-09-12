@@ -5,7 +5,7 @@
 #include<iomanip>
 
 using namespace std;
-const string clientsFileName = "Clients1.txt";
+const string clientsFileName = "Clients.txt";
 
 void showMainMenue();
 
